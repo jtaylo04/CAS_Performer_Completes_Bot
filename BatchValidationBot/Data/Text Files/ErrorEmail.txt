@@ -1,0 +1,14 @@
+Hello Team!<br/><br/>
+
+I have an techinical issue.<br/><br/>
+
+The attached file of TANs may not of been processed due to an issue with the <<ProcessName>> process!<br/><br/>
+
+Exception message :<br/><br/> <<Exception>><br/><br/>
+
+Can you please help.<br/><br/>
+
+Thank you<br/><br/>
+
+<<BotName>><br/><br/>
+

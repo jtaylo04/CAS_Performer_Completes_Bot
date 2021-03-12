@@ -1,0 +1,38 @@
+*NARNING: Structure data has not passed edits.
+*Messages for index entrg NUM 15:
+*NARNING: Structure data has not passed edits.
+*Messages for index entrg NUM 16:
+*NARNING: Structure data has not passed edits.
+*Messages for index entrg NUM 17:
+*NARNING: Structure data has not passed edits.
+4 TIDs not completed.
+SAN function not completed.
+Document passed all required edits.
+5 Total TIDs; 5 hold.
+*Messages for index entrg NUM 14:
+*NARNING: Structure data has not passed edits.
+*Messages for index entrg NUM 15:
+*NARNING: Structure data has not passed edits.
+*Messages for index entrg NUM 16:
+*NARNING: Structure data has not passed edits.
+*Messages for index entrg NUM 17:
+*NARNING: Structure data has not passed edits.
+4 TIDs not completed.
+SAN function not completed.
+Document passed all required edits.
+Local save document request completed.
+Holding TIDs to structure database, please wait...
+5 Tntal Ttne- s HELD.
+"Ui)()(lel?:)( >erformed for document ”W170.
+Tnﬁ WiWW£E£(J TYPE N SEC-SUB 1-1 HOLD
+Total IE = 3% (+ﬁ) Kills = ﬂ (+ﬁ) Blanks = ﬂ (+ﬁ)
+NM PARs = 19 (+ﬁ) CTHs = 6 (+ﬁ) TIDs = 5 (+ﬁ)
+Structured = 1 (+1) Open = 4 (-1) HC = ﬂ (+ﬁ)
+NMed/REGed = 25 (+ﬁ)
+. Current result : E
+. proCodeExists : false
+- processing the list is complete
+- number of TANs processed : 1
+- final output
+ﬁ1ﬁﬁﬁﬁﬁ7D 8errorTag;&errorTag; 4 (-1) HC = ﬂ .
+gasﬁﬁ51:/home/jat29>

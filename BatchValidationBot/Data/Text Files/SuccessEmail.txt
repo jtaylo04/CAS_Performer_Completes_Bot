@@ -1,0 +1,10 @@
+Hello Team!<br/><br/>
+
+I have an update!<br/><br/>
+
+The attached file of TANs have been successfully processed through the <<ProcessName>>!<br/><br/>
+
+Thank you<br/><br/>
+
+<<BotName>><br/><br/>
+
